@@ -9,3 +9,7 @@ inputA = int(input("number1 : ")) #input:입력
 inputB = int(input("number2 : "))
 # python 3.x f-string
 print(f"{inputA} + {inputB} = {inputA+inputB}")
+#python 1~10까지 출력
+for i in range(11):
+    print(i)
+#
