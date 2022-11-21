@@ -2,3 +2,6 @@
 # 2022. 11. 21. 
 print("hello")
 print('hello') # "와 ' 차이 없음
+a = 10
+b = 20
+print(a+b)
